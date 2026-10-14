@@ -2,7 +2,7 @@
 
 - 💻 Atualmente focado em **Cibersegurança e Python**.
 - 🎓 Graduado em **Analise e Desenvolvimento de Sistemas** e cursando/estudando **Cybersegurança e Redes**.
-- 📍 Baseado em **Salvador, BA**.
+- 📍 Baseado em **Salvador, BA - Brasil**.
 
 - ### 🛠️ Tecnologias e Ferramentas
 
