@@ -13,7 +13,7 @@
 </div>
 
 - ### 📫 Como me encontrar
-- 💼 **LinkedIn:** Lucas Coelho,(linkedin.com/in/lucas-coelho-it)
+- 💼 **LinkedIn:** Lucas Coelho,(https://www.linkedin.com/in/lucas-coelho-it/)
 - 📧 **E-mail:** lucas.scoelho@hotmail.com
 
 <!--
