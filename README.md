@@ -1,4 +1,21 @@
-## Hi there 👋
+### Olá, mundo! 👋 Meu nome é Lucas Coelho! 
+
+- 💻 Atualmente focado em **Cibersegurança e Python**.
+- 🎓 Graduado em **Analise e Desenvolvimento de Sistemas** e cursando/estudando **Cybersegurança e Redes**.
+- 📍 Baseado em **Salvador, BA**.
+
+- ### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <!-- Adicione outras tecnologias -->
+</div>
+
+- ### 📫 Como me encontrar
+- 💼 **LinkedIn:** Lucas Coelho,(linkedin.com/in/lucas-coelho-it)
+- 📧 **E-mail:** lucas.scoelho@hotmail.com
 
 <!--
 **it-lucascoelho/it-lucascoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
